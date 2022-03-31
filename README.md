@@ -11,7 +11,7 @@ https://user-images.githubusercontent.com/60168324/160948306-c1d32e08-1d5b-4604-
 
 ## Launch
 
-View the Form Annimation Project here: https://marisabrantley.github.io/form-wave-animation/
+View the Form Animation Project here: https://marisabrantley.github.io/form-wave-animation/
 
 ## Class
 Brad Traversy's Udemy Course "50 Projects in 50 Days" <br>
