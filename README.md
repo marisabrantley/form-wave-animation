@@ -1,6 +1,6 @@
 # Form Wave Annimation Project
 
-This project involved building a simple login form with a wave effect on the labels.
+This project involved building a simple login form with a wave effect on the labels. The letters of the label go up in a wave-like fashion when a field is clicked, and return to their original positions when the cursor clicks elsewhere.
 
 ## Objective
 * Using JavaScript, wrap a span around each label.
